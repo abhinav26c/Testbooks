@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14379" started-at="2020-05-24T15:21:23Z" finished-at="2020-05-24T15:21:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14379" started-at="2020-05-24T15:21:23Z" finished-at="2020-05-24T15:21:37Z">
+      <class name="com.goodreads.testcases.SearchByYear">
+        <test-method status="PASS" signature="preConditionTest()[pri:0, instance:com.goodreads.testcases.SearchByYear@130161f7]" name="preConditionTest" is-config="true" duration-ms="13645" started-at="2020-05-24T20:51:23Z" finished-at="2020-05-24T20:51:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preConditionTest -->
+        <test-method status="PASS" signature="SearchYear()[pri:0, instance:com.goodreads.testcases.SearchByYear@130161f7]" name="SearchYear" duration-ms="715" started-at="2020-05-24T20:51:36Z" finished-at="2020-05-24T20:51:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchYear -->
+      </class> <!-- com.goodreads.testcases.SearchByYear -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
